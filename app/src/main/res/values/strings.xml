@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GameForAndroid</string>
+    <string name="ed_login">Логин</string>
+    <string name="password">password</string>
+    <string name="welcome">welcome</string>
+    <string name="create_your_password">Create your password</string>
+    <string name="create_your_login">Create your Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">sign_up</string>
+    <string-array name="login_list">
+        <item>Emin</item>
+        <item>Mirmohsun</item>
+        <item>Shakhriyar</item>
+        <item>Ayaz</item>
+        <item>Elmar</item>
+    </string-array>
+    <string-array name="passwords_list">
+        <item>12345</item>
+        <item>11111</item>
+        <item>22222</item>
+        <item>33333</item>
+        <item>00000</item>
+    </string-array>
+</resources>
