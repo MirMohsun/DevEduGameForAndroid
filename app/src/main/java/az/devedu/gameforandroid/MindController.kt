@@ -17,7 +17,7 @@ class MindController : AppCompatActivity() {
         Log.d("name", "FirstName is $firstName")
 
         val tv = findViewById<TextView>(R.id.tvWelcome)
-        tv.text = "Welcome $firstName please make a number"
+        tv.text = "Добро пожаловать, $firstName пожалуйста загадайте число 1-31"
     }
 
     fun getResult(view: View)
